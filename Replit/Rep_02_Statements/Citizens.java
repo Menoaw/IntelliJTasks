@@ -1,4 +1,4 @@
-package Rep_02_Statements;
+package Replit.Rep_02_Statements;
 
 import java.util.Scanner;
 

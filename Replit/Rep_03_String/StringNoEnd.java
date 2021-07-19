@@ -1,4 +1,4 @@
-package Rep_03_String;
+package Replit.Rep_03_String;
 
 import java.util.Scanner;
 

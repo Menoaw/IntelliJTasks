@@ -1,4 +1,4 @@
-package Rep_06_Methods;
+package Replit.Rep_06_Methods;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;

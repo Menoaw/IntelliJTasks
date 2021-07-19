@@ -1,4 +1,4 @@
-package Rep_01_Variables;
+package Replit.Rep_01_Variables;
 
 import java.util.Scanner;
 

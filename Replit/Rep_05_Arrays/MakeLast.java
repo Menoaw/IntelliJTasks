@@ -1,4 +1,4 @@
-package Rep_05_Arrays;
+package Replit.Rep_05_Arrays;
 import java.util.*;
 /*
 Given an int array nums print a new array with double the length where its last element is the same as the original array,

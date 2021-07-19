@@ -1,4 +1,4 @@
-package Rep_05_Arrays;
+package Replit.Rep_05_Arrays;
 
 import java.util.Scanner;
 

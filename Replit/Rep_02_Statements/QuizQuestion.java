@@ -1,4 +1,4 @@
-package Rep_02_Statements;
+package Replit.Rep_02_Statements;
 /*
 
 In the given program you have a quiz question and a scanner to get the user input which will be stored on string **a**.

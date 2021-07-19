@@ -1,4 +1,4 @@
-package Rep_06_Methods;
+package Replit.Replit.Rep_06_Methods;
 
 import java.util.Arrays;
 import java.util.Scanner;

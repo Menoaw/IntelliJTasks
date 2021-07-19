@@ -1,4 +1,4 @@
-package Rep_04_Loops;
+package Replit.Rep_04_Loops;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Rep_03_String;
+package Replit.Rep_03_String;
 /*
 You have a word, do the following:
 

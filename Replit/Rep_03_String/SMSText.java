@@ -1,4 +1,4 @@
-package Rep_03_String;
+package Replit.Rep_03_String;
 /*
 Given a String **message** in the following format:
 ` Sender:<Mike Smith>. From Number:[202-123-3456]. Message:{I love programing and problem solving}`
