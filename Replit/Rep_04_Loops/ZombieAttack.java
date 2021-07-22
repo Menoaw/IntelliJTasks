@@ -35,12 +35,12 @@ public class ZombieAttack {
         int day = 0;
         do{
             if(inhabitants==0){
-                continue;
+                continue; //changes to line 44
             }
             System.out.println("Day "+day+ " ["+inhabitants+"]");
             inhabitants = inhabitants/2;
             day++;
-        }while (inhabitants>0);
+        }while (inhabitants>0); // goes to line 36
         System.out.println("---- EXTINCT ----");
 
 
