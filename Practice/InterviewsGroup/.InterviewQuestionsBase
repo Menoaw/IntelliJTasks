@@ -1,0 +1,124 @@
+Tell me about yourself.
+
+Describe your role in your team.
+
+Can you list me some of the testing you do on a regular basis?
+    functional/smoke/regression/back-end etc.
+
+how often do you perform regression testing?
+
+What meetings are you involved in your team?
+    grooming -
+    planning -
+
+
+Can you describe your daily work activities?
+    email - smoke results
+    email - check for anything important
+    Jira - review what is needed done
+    Daily stand-up Meeting => what did i do yesterday, what im doing today, list any impediments. - 15 min
+    work on automating user stories
+
+    -brown bag meetings? lunch? extra credit meetings to help others? trainings?
+
+Tell me about the project your currently working on.
+    describe something you are proud you figured out/accomplished.
+
+--------------------------------------------------------------------------------
+What Frameworks are you using? (what are you using to develop testing code, Java is language, Selenium WebDriver?)
+    Jira - tracking bugs/tasks
+    Jenkins - scheduling tests
+
+Why are you looking for a new job?
+    end of project?company relocating?
+
+Why did you apply for this position?
+
+What is your personal strength?
+
+What is your personal weakness?
+
+Technical Strengths?
+
+Technical Weakness?
+
+Describe to me something that was a challenge in one of your recent projects.
+
+-------------------------------------------------
+
+NON-TECHNICAL Challenges!
+Q: What to do in case you have too much work and cannot finish by deadline?
+
+Q: How do you handle conflict?
+
+Q: How do you handle stress?
+
+Q: How do you prioritize workload?
+
+Q: How soon can you start? / Tomorrow? => Testing loyalty to current job.
+
+Q: How much are you expecting from us for a pay rate?
+    ;90-100k, if you lowball, they think you are inexperienced.
+    ;they already know what they will pay, but they see if anything can be saved
+
+Q: Why should I hire you?
+
+Q: Any questions for me?
+    pg 13.
+---------------------------------------------------
+
+        TELL ME ABOUT YOUR FRAMEWORK
+
+Q: What Tools do you use every day and for what?
+    Java: Programming language.
+    Maven: Framework, used to manage dependencies and run tests as mvn goals from terminal.
+    Selenium WebDriver: library/tool/api used to automate browser, interacts with browser.
+    TestNG:used to group tests using xml files, creating test methods, run in certain order.
+    Cucumber Extent: for generating detailed HTML reports.
+
+-------------------------------------------------------
+            SDLC & AGILE
+Q: What is software testing?
+
+Q: What are Software Requirement Specifications?
+
+Q: What is SDLC?
+
+Q: What is STLC?
+
+Q: What is the difference between SDLC and STLC?
+
+Q: What are requirements, and where do they come from?
+
+Q: What is a testers main responsibility?
+
+Q: What is positive and negative testing?
+
+Q: What is testing hierarchy?
+
+Q: What is risk-based testing?
+
+Q: How many environments do you have/use?
+    Dev - Unit testing
+    Test - Manual testing/Replicates production exactly/automated smoke/automated tests/automated integration tests
+    Pre-Production - UAT environment/Demo/load-performance testing/Changes deployed in big intervals/STABLE!
+    Production -
+
+Q: What is functional testing?
+
+Q: What is non-functional testing?
+
+Q:
+
+
+
+
+
+
+
+
+
+
+
+
+

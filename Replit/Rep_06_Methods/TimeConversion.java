@@ -26,7 +26,7 @@ public class TimeConversion {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         //timeConversion(scan.nextLine());
-        timeConversion("12:00:00PM");
+        timeConversion("07:00:00AM");
     }
 
     //12:34:45PM
@@ -37,11 +37,11 @@ public class TimeConversion {
         int hr = Integer.valueOf(timeArr[0]);
         if (timeArr[2].contains("PM")) {
             isPM = true;
-            timeArr[2].replace("PM", "");
+            //timeArr[2].replace("PM", "");
             timeArr[2] = timeArr[2].substring(0, 2);
         }
         if (timeArr[2].contains("AM")) {
-            timeArr[2].replace("AM", "");
+            //timeArr[2].replace("AM", "");
             timeArr[2] = timeArr[2].substring(0, 2);
         }
         if (isPM == true&&hr!=12) {
