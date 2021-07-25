@@ -1,0 +1,159 @@
+Tell me about yourself.
+comes from architecture - IT
+automated sdet roles for 5 years.
+working for google, 3 years.
+projects are ending, turnover of staff, time to move on.
+
+Describe your role in your team.
+senior tester, 3 test, 5 dev, SM, PO
+
+Can you list me some of the testing you do on a regular basis?
+    functional/smoke/regression/back-end etc.
+smoke/daily
+sprints, 2 weeks, friday.
+
+
+how often do you perform regression testing?
+
+What meetings are you involved in your team?
+    grooming -
+    planning -
+    retro -
+
+Can you describe your daily work activities?
+    email - smoke results
+    email - check for anything important
+    Jira - review what is needed done
+    Daily stand-up Meeting => what did i do yesterday, what im doing today, list any impediments. - 15 min
+    work on automating user stories
+        morning 50tests,smoke, around 9am start work hours, daly user stories
+
+    -brown bag meetings? lunch? extra credit meetings to help others? trainings?
+
+Tell me about the project your currently working on.
+    describe something you are proud you figured out/accomplished.
+
+--------------------------------------------------------------------------------
+What Frameworks are you using? (what are you using to develop testing code, Java is language, Selenium WebDriver?)
+    Jira - tracking bugs/tasks
+    Jenkins - scheduling tests
+
+Why are you looking for a new job?
+    end of project?company relocating?
+few people quit, projects we are passionate about are ending, future uncertain,
+
+Why did you apply for this position?
+companies goals are interesting, and projects are expansive, feel it would be a good challenge, good environment to work in, growth possibilities.
+
+What is your personal strength?
+tenacity, attention to detail, social skills, enjoys solving issues.
+
+What is your personal weakness?
+hard to balance between good on technical or social for spending time.
+sometimes emotional, overwhelmed, sometimes feeling rude/impatient.
+
+Technical Strengths?
+
+Technical Weakness?
+
+Describe to me something that was a challenge in one of your recent projects.
+
+-------------------------------------------------
+
+NON-TECHNICAL Challenges!
+Q: What to do in case you have too much work and cannot finish by deadline?
+try to communicate with co workers to see if theres a way to deconstruct/redistribute worload, orpush deadline back a bit.
+
+Q: How do you handle conflict?
+observe, problem solve depending on problems.
+
+Q: How do you handle stress?
+deadlines common previous job, when backlog work harder, handle well, different headspace when working hard.
+go till done.
+
+Q: How do you prioritize workload?
+prioritize on tasks needed to be done, start with most important finish with least.
+technical priority over admin duties, over general tasks.
+
+Q: How soon can you start? / Tomorrow? => Testing loyalty to current job.
+2-3 weeks.
+
+Q: How much are you expecting from us for a pay rate?
+    ;90-100k, if you lowball, they think you are inexperienced.
+    ;they already know what they will pay, but they see if anything can be saved
+110k
+
+Q: Why should I hire you?
+unique set of experiences, both technical and interpersonal, and cultural. adaptable, beneficial for an organization
+ like yours that is multicultural and fast paced environment
+
+Q: Any questions for me?
+    pg 13.
+
+
+---------------------------------------------------
+
+        TELL ME ABOUT YOUR FRAMEWORK
+
+Q: What Tools do you use every day and for what?
+    Java: Programming language.
+    Maven: Framework, used to manage dependencies and run tests as mvn goals from terminal.
+    Selenium WebDriver: library/tool/api used to automate browser, interacts with browser.
+    TestNG:used to group tests using xml files, creating test methods, run in certain order.
+    Cucumber Extent: for generating detailed HTML reports.
+
+-------------------------------------------------------
+            SDLC & AGILE
+
+Q: What is software testing?
+testing user stories, features, testing through automation.
+
+Q: What are Software Requirement Specifications?
+a document that states clearly what the goals are for the software.
+
+Q: What is SDLC?
+
+Q: What is STLC?
+requirement gathering, plan making, dev, release, maintainence
+
+Q: What is the difference between SDLC and STLC?
+STLC subset of SDLC
+
+Q: What are requirements, and where do they come from?
+come from sakeholders/investors/owners, set of requirements that the software must perform to achieve the goals.
+
+Q: What is a testers main responsibility?
+
+Q: What is positive and negative testing?
+unknown
+
+Q: What is testing hierarchy?
+unknown
+
+Q: What is risk-based testing?
+
+
+Q: How many environments do you have/use?
+    Dev - Unit testing
+    Test - Manual testing/Replicates production exactly/automated smoke/automated tests/automated integration tests
+    Pre-Production - UAT environment/Demo/load-performance testing/Changes deployed in big intervals/STABLE!
+    Production -
+
+Q: What is functional testing?
+skip
+
+Q: What is non-functional testing?
+skip
+
+
+
+
+
+
+
+
+
+
+
+
+
