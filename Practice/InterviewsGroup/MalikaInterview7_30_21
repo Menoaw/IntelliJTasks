@@ -1,0 +1,150 @@
+Tell me about yourself.
+khazakstan live in chicago
+2 yr IT
+start QA, normally manual, learning automation
+using Java, Chase Bank
+Selenium for testing
+
+
+Describe your role in your team.
+9 ppl
+4 dev 1 PO 1 BA 1 SM 2 QA
+reg QA
+
+Can you list me some of the testing you do on a regular basis?
+    functional/smoke/regression/back-end etc.
+smoke test using jenkins
+after,functional, occasionally regression.
+
+how often do you perform regression testing?
+every 2 weeks, once per sprint.
+
+What meetings are you involved in your team?
+    grooming -what features going to workon during next cycle
+    planning -
+standup morning
+1 standup before going home
+^ why
+
+Can you describe your daily work activities?
+    email - smoke results
+    email - check for anything important
+    Jira - review what is needed done
+    Daily stand-up Meeting => what did i do yesterday, what im doing today, list any impediments. - 15 min
+    work on automating user stories
+
+/smoke test reports, fixing any issues before standup, 15 min.
+normal work, test cases
+extra time, automating test cases from previous sprint.
+if no time to automate, do manual, finish next sprint
+
+    -brown bag meetings? lunch? extra credit meetings to help others? trainings?
+
+Tell me about the project your currently working on.
+    describe something you are proud you figured out/accomplished.
+
+    propietary.
+
+--------------------------------------------------------------------------------
+What Frameworks are you using? (what are you using to develop testing code, Java is language, Selenium WebDriver?)
+    Jira - tracking bugs/tasks
+    Jenkins - scheduling tests
+API
+
+Why are you looking for a new job?
+    end of project?company relocating?
+project finishing next week, good time to look for new jobs.
+wantingto study as a dev
+
+Why did you apply for this position?
+requirements match up and suited for self, good asset.
+
+What is your personal strength?
+good teammate,goodcommunication. eager to learn.
+
+What is your personal weakness?
+too caught up in work, sacrificing personal time, prone to burn out
+
+Technical Strengths?
+
+Technical Weakness?
+
+Describe to me something that was a challenge in one of your recent projects.
+developing a good test case. - asked question wrong,misunderstood.
+-------------------------------------------------
+
+NON-TECHNICAL Challenges!
+Q: What to do in case you have too much work and cannot finish by deadline?
+
+Q: How do you handle conflict?
+
+Q: How do you handle stress?
+talk to colleagues, share experience. communicate. sports.
+Q: How do you prioritize workload?
+work inprogress, 6/10, highest prioritize
+Q: How soon can you start? / Tomorrow? => Testing loyalty to current job.
+2 weeks.
+Q: How much are you expecting from us for a pay rate?
+    ;90-100k, if you lowball, they think you are inexperienced.
+    ;they already know what they will pay, but they see if anything can be saved
+80k beginning, with check for benefits, ask 401k stock etc.
+
+Q: Why should I hire you?
+
+Q: Any questions for me?
+    pg 13.
+---------------------------------------------------
+
+        TELL ME ABOUT YOUR FRAMEWORK
+
+Q: What Tools do you use every day and for what?
+    Java: Programming language.
+    Maven: Framework, used to manage dependencies and run tests as mvn goals from terminal.
+    Selenium WebDriver: library/tool/api used to automate browser, interacts with browser.
+    TestNG:used to group tests using xml files, creating test methods, run in certain order.
+    Cucumber Extent: for generating detailed HTML reports.
+
+-------------------------------------------------------
+            SDLC & AGILE
+Q: What is software testing?
+
+Q: What are Software Requirement Specifications?
+
+Q: What is SDLC?
+
+Q: What is STLC?
+
+Q: What is the difference between SDLC and STLC?
+
+Q: What are requirements, and where do they come from?
+
+Q: What is a testers main responsibility?
+
+Q: What is positive and negative testing?
+
+Q: What is testing hierarchy?
+
+Q: What is risk-based testing?
+
+Q: How many environments do you have/use?
+    Dev - Unit testing
+    Test - Manual testing/Replicates production exactly/automated smoke/automated tests/automated integration tests
+    Pre-Production - UAT environment/Demo/load-performance testing/Changes deployed in big intervals/STABLE!
+    Production -
+
+Q: What is functional testing?
+
+Q: What is non-functional testing?
+
+
+
+
+
+
+
+
+
+
+
+
+
