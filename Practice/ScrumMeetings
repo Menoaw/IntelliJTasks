@@ -1,0 +1,33 @@
+Planning Meeting
+
+SM - Create Sprint Backlog on Jira
+SM - figure out teams capacity (days off etc)
+PO / BA - moves stories from Backlog to Sprint Backlog (ones good per DOR Definition of Ready)
+SM starts sprint with name - goal - starting/ending date
+
+
+Goal of Planning Meeting
+1 Team knows what stories we are devloping/testing
+2.  how many points we have available, we know how many we can do
+
+Grooming Meeting
+PO explains User stories to Dev Team
+Dev Team estimate points
+
+===
+
+Before Meeting =>   PO prepares user stories on Backlog (jira or other app)
+                    PO prioritizes stories
+
+During Meeting =>   PO explains each User Story & its AC (Acceptance Criteria)
+                    Dev Team asks questions to understand better
+                    Dev team & PO together give points (Fibonacci - 1,2,3,5,8,13,21)
+
+After Meeting =>    Backlog is listed with all user stories that are defined & estimated
+
+
+
+
+
+
+

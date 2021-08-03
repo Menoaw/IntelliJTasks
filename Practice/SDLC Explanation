@@ -1,0 +1,91 @@
+SDLC - Software Development Life Cycle
+1. Requirement Gathering -
+    Business team collects different requirements (Business, Market, Functional, Non-Functional)
+        and the System Requirement Specification (SRS)
+    feasibility/study to verify every i is dotted, and t crossed, making sure its able to happen (SMART)
+        Specific
+        Measurable
+        Attainable
+        Realistic
+        Testable
+
+2. Design -
+    Designers create Software Design Specification (SDS)
+        includes - Outline of each modules functions
+            any dependencies between modules
+            database tables
+            addresses all dependency issues
+            list of all possible error messages
+            create input and output for each module
+3. Coding -
+Developers start building the software
+tasks are split up into small units distributed among multiple devs.
+(longest part)
+
+4. Testing - US!
+Analyze requirement documents and plan our testing
+write test case documents and prepare test data
+test software functionalities, security, performance and operations (depending upon your position)
+if bugs found, inform devs, retest after fixed
+test reports get documented
+
+5. Production/Deployment -
+    app is released with support of all teams
+    all codes/new features are deployed to the production environment.
+    software will be used by end users.
+
+6. Maintenance -
+    bug fixes, anything missed in previous steps gets found here,
+    project support by devs/dev-ops/business team
+    update and improve software by adding new features
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
